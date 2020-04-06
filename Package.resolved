@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Networking",
+        "repositoryURL": "https://github.com/rasad88/Networking",
+        "state": {
+          "branch": null,
+          "revision": "d17977616273d5eac572c3c5de4cc7945c9759a8",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
